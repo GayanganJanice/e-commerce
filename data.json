@@ -1,0 +1,37 @@
+[
+    { "image": "shorrrt.jpg",
+        "name": "Women's Short",
+"description": "Sexy" ,
+"price": "₱ 150.00" ,
+"date added": ""
+},
+{
+    "image": "",
+    "name": "Men's Short",
+    "description":" in game",
+    "price": "₱ 200.00" ,
+"date added": ""
+},
+{
+    "name": "T-shirt",
+    "description":"Comfy to wear",
+    "price": "₱ 100.00" ,
+"date added": ""
+},
+
+{
+    "name": "Dress",
+    "description":"It is nice to wear for occasion",
+    "price": "₱ 199.00" ,
+"date added": ""
+},
+
+{
+    "name": "Jeans",
+    "description":"",
+    "price": "₱ 200.00" ,
+"date added": ""
+}
+
+
+]
